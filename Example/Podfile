@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YouTubePlayerSwift_Example' do
+  pod 'YouTubePlayerSwift', :path => '../'
+
+  target 'YouTubePlayerSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
