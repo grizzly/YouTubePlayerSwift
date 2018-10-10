@@ -1,0 +1,6 @@
+framework module Pods_YouTubePlayerSwift_Tests {
+  umbrella header "Pods-YouTubePlayerSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

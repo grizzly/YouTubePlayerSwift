@@ -1,6 +1,9 @@
 use_frameworks!
+platform :ios, '10.0'
 
 target 'YouTubePlayerSwift_Example' do
+
+
   pod 'YouTubePlayerSwift', :path => '../'
 
   target 'YouTubePlayerSwift_Tests' do

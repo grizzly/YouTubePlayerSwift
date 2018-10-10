@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import YouTubePlayerSwift
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var playerView: YouTubePlayerView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        playerView.play(videoID: "UF8uR6Z6KLc");
     }
 
     override func didReceiveMemoryWarning() {

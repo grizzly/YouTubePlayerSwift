@@ -1,0 +1,22 @@
+{
+  "name": "YouTubePlayerSwift",
+  "version": "0.1.0",
+  "summary": "A short description of YouTubePlayerSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/st.mayr@grizzly.cc/YouTubePlayerSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "st.mayr@grizzly.cc": "st.mayr@grizzly.cc"
+  },
+  "source": {
+    "git": "https://github.com/st.mayr@grizzly.cc/YouTubePlayerSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YouTubePlayerSwift/Classes/**/*"
+}

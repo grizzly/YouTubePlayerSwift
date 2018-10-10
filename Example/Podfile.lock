@@ -1,0 +1,16 @@
+PODS:
+  - YouTubePlayerSwift (0.1.0)
+
+DEPENDENCIES:
+  - YouTubePlayerSwift (from `../`)
+
+EXTERNAL SOURCES:
+  YouTubePlayerSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YouTubePlayerSwift: 2ed21131452cdb6e872287c594f482ae72ad4aa9
+
+PODFILE CHECKSUM: 296e7a666aa797fc356a86affa718eed1b1f13af
+
+COCOAPODS: 1.6.0.beta.1
