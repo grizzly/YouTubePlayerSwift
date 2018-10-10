@@ -1,9 +1,9 @@
 # YouTubePlayerSwift
 
-[![CI Status](https://img.shields.io/travis/st.mayr@grizzly.cc/YouTubePlayerSwift.svg?style=flat)](https://travis-ci.org/st.mayr@grizzly.cc/YouTubePlayerSwift)
-[![Version](https://img.shields.io/cocoapods/v/YouTubePlayerSwift.svg?style=flat)](https://cocoapods.org/pods/YouTubePlayerSwift)
-[![License](https://img.shields.io/cocoapods/l/YouTubePlayerSwift.svg?style=flat)](https://cocoapods.org/pods/YouTubePlayerSwift)
-[![Platform](https://img.shields.io/cocoapods/p/YouTubePlayerSwift.svg?style=flat)](https://cocoapods.org/pods/YouTubePlayerSwift)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/YouTubePlayerSwift.svg)](https://img.shields.io/cocoapods/v/YouTubePlayerSwift.svg)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Platform](https://img.shields.io/cocoapods/p/YouTubePlayerSwift.svg?style=flat)](http://cocoadocs.org/docsets/YouTubePlayerSwift)
+[![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
 ## Example
 
