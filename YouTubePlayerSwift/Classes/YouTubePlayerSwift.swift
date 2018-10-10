@@ -65,7 +65,7 @@ open class YouTubePlayerView: UIView, WKScriptMessageHandler {
         
     }
     
-    public func videoIDFromYouTubeURL(_ videoURL: URL) -> String? {
+    public static func videoIDFromYouTubeURL(_ videoURL: URL) -> String? {
         if videoURL.pathComponents.count > 1 && (videoURL.host?.hasSuffix("youtu.be"))! {
             return videoURL.pathComponents[1]
         } else if videoURL.pathComponents.contains("embed") {
