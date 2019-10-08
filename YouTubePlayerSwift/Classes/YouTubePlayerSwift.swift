@@ -46,8 +46,6 @@ open class YouTubePlayerView: UIView, WKScriptMessageHandler, WKNavigationDelega
         config.allowsInlineMediaPlayback = true
         
         let webView = WKWebView(frame: self.bounds, configuration: config)
-        let userAgent = UIWebView().stringByEvaluatingJavaScript(from: "navigator.userAgent") ?? "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79"
-        webView.customUserAgent = userAgent + " Safari";
         webView.isOpaque = false
         webView.backgroundColor = UIColor.clear
         webView.scrollView.isScrollEnabled = false
